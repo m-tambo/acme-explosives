@@ -37,7 +37,7 @@
             "id": 4,
             "type": 1,
             "name": "Rat-a-tat",
-            "description": "Don't forget your earplugs"
+            "description": "Don't forget your earplugs."
          }
       },
       {
@@ -45,103 +45,103 @@
             "id": 5,
             "type": 1,
             "name": "Whiz Bang",
-            "description": "Great for the finale"
+            "description": "Great for the finale."
          }
       },
       {
-        "x": {
+        "godzilla": {
             "id": 6,
             "type": 2,
-            "name": "x",
-            "description": "x"
+            "name": "Godzilla",
+            "description": "Flashy metropolis show."
          }
       },
       {
-        "x": {
+        "stay_puft": {
             "id": 7,
             "type": 2,
-            "name": "x",
-            "description": "x"
+            "name": "Stay Puff Marshmallow",
+            "description": "This one is big and billowy."
          }
       },
       {
-        "x": {
+        "king_kong": {
             "id": 8,
             "type": 2,
-            "name": "x",
-            "description": "x"
+            "name": "King Kong",
+            "description": "King of all fireworks displays"
          }
       },
       {
-        "x": {
+        "stumper": {
             "id": 9,
             "type": 3,
-            "name": "x",
-            "description": "x"
+            "name": "Stumper",
+            "description": "Knock out those pesky stumps."
          }
       },
       {
-        "x": {
+        "thumper": {
             "id": 10,
             "type": 3,
-            "name": "x",
-            "description": "x"
+            "name": "Thumper",
+            "description": "Bust up your old retaining wall."
          }
       },
       {
-        "x": {
+        "dumper": {
             "id": 11,
             "type": 3,
-            "name": "x",
-            "description": "x"
+            "name": "Dumper",
+            "description": "Blow up a bunch of unwanted garbage."
          }
       },
       {
-        "x": {
+        "nashville": {
             "id": 12,
             "type": 4,
-            "name": "x",
-            "description": "x"
+            "name": "The Nashville",
+            "description": "Perfect for your favorite big small town."
          }
       },
       {
-        "x": {
+        "vegas": {
             "id": 13,
             "type": 4,
-            "name": "x",
-            "description": "x"
+            "name": "The Vegas",
+            "description": "Time to level some casinos."
          }
       },
       {
-        "x": {
+        "new_york": {
             "id": 14,
             "type": 4,
-            "name": "x",
-            "description": "x"
+            "name": "The New Yorker",
+            "description": "Empire state of mind"
          }
       },
       {
-        "x": {
+        "atilla": {
             "id": 15,
             "type": 5,
-            "name": "x",
-            "description": "x"
+            "name": "Atilla the Hun",
+            "description": "Just in case you need anything laid to waste."
          }
       },
       {
-        "x": {
+        "alexander": {
             "id": 16,
             "type": 5,
-            "name": "x",
-            "description": "x"
+            "name": "Alexander the Great",
+            "description": "Empire crusher."
          }
       },
       {
-        "x": {
+        "william": {
             "id": 17,
             "type": 5,
-            "name": "x",
-            "description": "x"
+            "name": "William the Conqueror",
+            "description": "This will wreck your village."
          }
       }
    ]
