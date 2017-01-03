@@ -1,51 +1,51 @@
 {
    "products": [
       {
-        "fairy_sparklers": {
+        "fairy_sparx": {
             "id": 0,
             "type": 0,
-            "name": "Fairy Sparklers",
-            "description": "Multi-colored sparklers that are safe for any age."
+            "name": "Fairy Sparx",
+            "description": "Kiddie stuff --safe for any age."
          }
       },
       {
-        "x": {
+        "pixie_stix": {
             "id": 1,
             "type": 0,
-            "name": "x",
-            "description": "x"
+            "name": "Pixie Stix",
+            "description": "They burn for about 3.5 seconds."
          }
       },
       {
-        "x": {
+        "bottle_rocketz": {
             "id": 2,
             "type": 0,
-            "name": "x",
-            "description": "x"
+            "name": "Bottle Rocketz",
+            "description": "Shoot 'em at your drunk buddies."
          }
       },
       {
-        "x": {
+        "cowboy_hat": {
             "id": 3,
             "type": 1,
-            "name": "x",
-            "description": "x"
+            "name": "Cowboy Hat",
+            "description": "Guess what shape it comes in."
          }
       },
       {
-        "x": {
+        "ratatat": {
             "id": 4,
             "type": 1,
-            "name": "x",
-            "description": "x"
+            "name": "Rat-a-tat",
+            "description": "Don't forget your earplugs"
          }
       },
       {
-        "x": {
+        "whiz_bang": {
             "id": 5,
             "type": 1,
-            "name": "x",
-            "description": "x"
+            "name": "Whiz Bang",
+            "description": "Great for the finale"
          }
       },
       {
