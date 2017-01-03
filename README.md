@@ -1,1 +1,3 @@
-# acme-explosives-exercise
+# Acme Explosives Exercise
+
+### Working with promises
