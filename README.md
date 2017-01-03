@@ -1,6 +1,6 @@
 #Acme Explosives Exercise
 
-#Working with promises
+##Working with promises
 
 ###Instructions
 
