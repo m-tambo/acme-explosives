@@ -1,0 +1,22 @@
+{
+   "types": [
+      {
+         "id": 0,
+         "category": 0,
+         "name": "personal",
+         "description": "Fireworks intended for recreational use during holiday celebrations"
+      },
+      {
+         "id": 1,
+         "category": 1,
+         "name": "industrial",
+         "description": "Fireworks intended for large scale professional displays"
+      },
+      {
+         "id": 2,
+         "category": 2,
+         "name": "nuclear",
+         "description": "Fireworks intended for obliterating a good-sized metropolis"
+      }
+   ]
+}
