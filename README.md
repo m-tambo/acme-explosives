@@ -1,47 +1,15 @@
-# Acme Explosives Exercise
+#Acme Explosives Exercise
 
-### Working with promises
+#Working with promises
 
-Instructions
+###Instructions
 
 You are going to be creating several JSON files that will be describing all of the explosive products that you sell. You need to use Promises to handle the order of the asynchronous operations needed to load the data.
 
-Product Categories
-
-Choose at least two, but as many of you like, categories for your products. Give each one an integer unique id.
-
-Here's an example.
-
-categories.json
-
-{
-    "categories": [
-        {
-            "id": 0,
-            "name": "Fireworks"
-        },
-        {
-            "id": 1,
-            "name": "Demolition"
-        }
-    ]
-}
 Product Types
 
 Create a JSON file describing types for each category of your products. For each type, add a key/value pair that creates a relationship to the corresponding category. Create at least 3 types for each category.
 
-types.json
-
-{
-    "types": [
-        {
-            "id": 0,
-            "category": 0,
-            "name": "personal",
-            "description": "Fireworks intended for recreational use during holiday celebrations"
-        }
-    ]
-}
 Product Details
 
 Create a JSON file describing each product you offer. Add a key/value pair that creates a relationship to the appropriate product type. Add at least 3 products for each type.
