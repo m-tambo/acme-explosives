@@ -1,0 +1,148 @@
+{
+   "products": [
+      {
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+         }
+      },
+      {
+        "x": {
+            "id": 1,
+            "type": 0,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 2,
+            "type": 0,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 3,
+            "type": 1,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 4,
+            "type": 1,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 5,
+            "type": 1,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 6,
+            "type": 2,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 7,
+            "type": 2,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 8,
+            "type": 2,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 9,
+            "type": 3,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 10,
+            "type": 3,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 11,
+            "type": 3,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 12,
+            "type": 4,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 13,
+            "type": 4,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 14,
+            "type": 4,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 15,
+            "type": 5,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 16,
+            "type": 5,
+            "name": "x",
+            "description": "x"
+         }
+      },
+      {
+        "x": {
+            "id": 17,
+            "type": 5,
+            "name": "x",
+            "description": "x"
+         }
+      }
+   ]
+}
