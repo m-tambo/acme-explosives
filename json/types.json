@@ -1,38 +1,38 @@
 {
    "types": [
       {
-         "id": 0,
-         "category": 0,
+         "type_id": 0,
+         "category_id": 0,
          "name": "backyard",
          "description": "Fireworks intended for recreational use during holiday celebrations"
       },
       {
-         "id": 1,
-         "category": 0,
+         "type_id": 1,
+         "category_id": 0,
          "name": "municipal",
          "description": "Fireworks intended for large scale professional displays"
       },
       {
-         "id": 2,
-         "category": 0,
+         "type_id": 2,
+         "category_id": 0,
          "name": "global",
          "description": "Fireworks that can be seen from outer space"
       },
       {
-         "id": 3,
-         "category": 1,
+         "type_id": 3,
+         "category_id": 1,
          "name": "personal",
          "description": "Dynamite intended for small-scale yard work"
       },
       {
-         "id": 4,
-         "category": 1,
+         "type_id": 4,
+         "category_id": 1,
          "name": "professional",
          "description": "Dynamite intended for building demolition"
       },
       {
-         "id": 5,
-         "category": 1,
+         "type_id": 5,
+         "category_id": 1,
          "name": "nuclear",
          "description": "Dynamite intended for obliterating a medium-sized metropolis"
       }

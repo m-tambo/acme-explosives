@@ -2,144 +2,144 @@
    "products": [
       {
         "fairy_sparx": {
-            "id": 0,
-            "type": 0,
+            "product_id": 0,
+            "type_id": 0,
             "name": "Fairy Sparx",
             "description": "Kiddie stuff --safe for any age."
          }
       },
       {
         "pixie_stix": {
-            "id": 1,
-            "type": 0,
+            "product_id": 1,
+            "type_id": 0,
             "name": "Pixie Stix",
             "description": "They burn for about 3.5 seconds."
          }
       },
       {
         "bottle_rocketz": {
-            "id": 2,
-            "type": 0,
+            "product_id": 2,
+            "type_id": 0,
             "name": "Bottle Rocketz",
             "description": "Shoot 'em at your drunk buddies."
          }
       },
       {
         "cowboy_hat": {
-            "id": 3,
-            "type": 1,
+            "product_id": 3,
+            "type_id": 1,
             "name": "Cowboy Hat",
             "description": "Guess what shape it comes in."
          }
       },
       {
         "ratatat": {
-            "id": 4,
-            "type": 1,
+            "product_id": 4,
+            "type_id": 1,
             "name": "Rat-a-tat",
             "description": "Don't forget your earplugs."
          }
       },
       {
         "whiz_bang": {
-            "id": 5,
-            "type": 1,
+            "product_id": 5,
+            "type_id": 1,
             "name": "Whiz Bang",
             "description": "Great for the finale."
          }
       },
       {
         "godzilla": {
-            "id": 6,
-            "type": 2,
+            "product_id": 6,
+            "type_id": 2,
             "name": "Godzilla",
             "description": "Flashy metropolis show."
          }
       },
       {
         "stay_puft": {
-            "id": 7,
-            "type": 2,
+            "product_id": 7,
+            "type_id": 2,
             "name": "Stay Puff Marshmallow",
             "description": "This one is big and billowy."
          }
       },
       {
         "king_kong": {
-            "id": 8,
-            "type": 2,
+            "prtype_idtype_idoduct_id": 8,
+            "type_idtype_id": 2,
             "name": "King Kong",
             "description": "King of all fireworks displays"
          }
       },
       {
         "stumper": {
-            "id": 9,
-            "type": 3,
+            "product_id": 9,
+            "type_id": 3,
             "name": "Stumper",
             "description": "Knock out those pesky stumps."
          }
       },
       {
         "thumper": {
-            "id": 10,
-            "type": 3,
+            "product_id": 10,
+            "type_id": 3,
             "name": "Thumper",
             "description": "Bust up your old retaining wall."
          }
       },
       {
         "dumper": {
-            "id": 11,
-            "type": 3,
+            "product_id": 11,
+            "type_id": 3,
             "name": "Dumper",
             "description": "Blow up a bunch of unwanted garbage."
          }
       },
       {
         "nashville": {
-            "id": 12,
-            "type": 4,
+            "product_id": 12,
+            "type_id": 4,
             "name": "The Nashville",
             "description": "Perfect for your favorite big small town."
          }
       },
       {
         "vegas": {
-            "id": 13,
-            "type": 4,
+            "product_id": 13,
+            "type_id": 4,
             "name": "The Vegas",
             "description": "Time to level some casinos."
          }
       },
       {
         "new_york": {
-            "id": 14,
-            "type": 4,
+            "product_id": 14,
+            "type_id": 4,
             "name": "The New Yorker",
             "description": "Empire state of mind"
          }
       },
       {
         "atilla": {
-            "id": 15,
-            "type": 5,
+            "product_id": 15,
+            "type_id": 5,
             "name": "Atilla the Hun",
             "description": "Just in case you need anything laid to waste."
          }
       },
       {
         "alexander": {
-            "id": 16,
-            "type": 5,
+            "product_id": 16,
+            "type_id": 5,
             "name": "Alexander the Great",
             "description": "Empire crusher."
          }
       },
       {
         "william": {
-            "id": 17,
-            "type": 5,
+            "product_id": 17,
+            "type_id": 5,
             "name": "William the Conqueror",
             "description": "This will wreck your village."
          }
