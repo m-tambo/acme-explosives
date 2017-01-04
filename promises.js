@@ -57,8 +57,8 @@ var promise3 = new Promise(function(resolve, reject){
 
 // Promise.all([promise1, promise2, promise3])
 //   .then(function(values) {
-//     suspects = values[0]
-//     weapons = values[1]
-//     rooms = values[2]
-//     findGuess()
+//     categories = values[0]
+//     types = values[1]
+//     products = values[2]
+//     populateCardss()
 //   })
